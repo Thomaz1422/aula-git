@@ -1,2 +1,4 @@
 # aula-git
-minha primeira versão
+minha primeira versãobom 
+comida esta tao boa 
+peixe
